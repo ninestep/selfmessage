@@ -1,6 +1,0 @@
-{
-  "name": "个人博客",
-  "tagline": "个人简历",
-  "body": "#个人简历\r\n----\r\n###1.个人信息\r\n杨兵 15135405261\r\n中北大学信息商务学院大三学生\r\n859696354@qq.com\r\n###2.技能列表\r\n1.PHP\r\n\r\n -  熟悉thinkphp\r\n -  熟悉laravel\r\n \r\n2.python\r\n\r\n -  熟悉django\r\n -  使用requests+BeautifulSoup抓取过google和百度\r\n###3.作品集\r\n\r\n-  [Blog Home](http://qq15987.gicp.net/)\r\n    基于django1.9+python3.4开发的博客程序，使用markdown编辑器，mysql数据库，目前集成了电影搜索的功能\r\n\r\n\r\n\r\n\r\n    \r\n    \r\n\r\n  ",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
